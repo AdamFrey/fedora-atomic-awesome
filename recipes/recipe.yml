@@ -33,13 +33,14 @@ modules:
       - direnv
       - dunst
       - flatpak-builder
+      - hyprland
       - mplayer
       - nethogs
       - packer
       - pnpm
       - podman-compose
       - polybar
-      - subl
+      # - subl
       - tailscale
       - tldr
       - zoxide
