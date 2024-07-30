@@ -25,7 +25,6 @@ modules:
       - https://copr.fedorainfracloud.org/coprs/yalter/niri/repo/fedora-40/yalter-niri-fedora-40.repo
     install:
       - awesome
-      - clojure
       - kitty
       - rofi
       - emacs
