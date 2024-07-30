@@ -22,6 +22,7 @@ modules:
       - https://rpm.releases.hashicorp.com/fedora/hashicorp.repo
       - https://pkgs.tailscale.com/unstable/fedora/tailscale.repo
       - https://download.sublimetext.com/rpm/stable/x86_64/sublime-text.repo
+      - https://copr.fedorainfracloud.org/coprs/yalter/niri/repo/fedora-40/yalter-niri-fedora-40.repo
     install:
       - awesome
       - clojure
@@ -36,6 +37,7 @@ modules:
       - hyprland
       - mplayer
       - nethogs
+      - niri
       - packer
       - pnpm
       - podman-compose
